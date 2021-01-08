@@ -1,13 +1,0 @@
-
-U	java:S106"9Replace this use of System.out or System.err by a logger.(í†ŒØ8‘¸³…é.
-N
-java:S1481 "1Remove this unused "firstProgram" local variable.(™²îº8ûÆÐ…é.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ë£Õ¯ùÿÿÿÿ8¤œ»…é.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(Üâœ8¤€å„é.
-]	java:S125-"<This block of commented-out lines of code should be removed.(áÝ˜ïüÿÿÿÿ8‹Í§…é.
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(±ÓØ³ûÿÿÿÿ8šµó„é.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(›õ¦Ì8»Íê„é.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(àÞ“¬øÿÿÿÿ8ì«ë„é.
-Z	java:S106,"9Replace this use of System.out or System.err by a logger.(Í¯ç ûÿÿÿÿ8·¾‘…é.
-]
-java:S1854 "@Remove this useless assignment to local variable "firstProgram".(™²îº8ûÆÐ…é.
